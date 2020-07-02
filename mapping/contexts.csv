@@ -1,0 +1,163 @@
+ILCD,IDEA,ecoinvent,FEDEFL
+emission/air/close to ground,,,emission/air/troposphere/ground-level
+emission/air/indoor,,air/indoor,emission/air/indoor
+emission/air/lower stratosphere and upper stratosphere,,air/lower stratosphere + upper troposphere,emission/air/stratosphere
+,Emissions/air/non-urban,,emission/air/troposphere/rural
+,,"air/low population density, long-term",emission/air/rural
+emission/air/non urban or from high stack,,air/non-urban air or from high stacks,emission/air/troposphere/rural
+emission/air/non urban/ground level,,,emission/air/rural/ground-level
+emission/air/non urban/high,,,emission/air/troposphere/rural/high
+emission/air/non urban/low ,,,emission/air/troposphere/rural/low
+emission/air/non urban/very high ,,,emission/air/troposphere/rural/very high
+emission/air/unspecified,Emissions/air/unspecified,air/unspecified,emission/air
+emission/air/unspecified long term,,,emission/air
+emission/air/urban/high ,Emissions/air/urban high stacks,,emission/air/troposphere/urban/high
+emission/air/urban/low ,Emissions/air/urban air close to ground,air/urban air close to ground,emission/air/troposphere/urban/ground-level
+emission/air/urban/very high ,,,emission/air/troposphere/urban/very high
+emission/soil/agricultural,,soil/agricultural,emission/ground/human-dominated/agricultural
+emission/soil/non agricultural,,,emission/ground/terrestrial
+,,soil/forestry,emission/ground/terrestrial/forest
+,,soil/industrial,emission/ground/human-dominated/industrial
+emission/soil/unspecified,Emissions/ground/unspecified,soil/unspecified,emission/ground
+emission/soil/unspecified long term,,,emission/ground
+emission/stockpile goods,,,
+emission/waste/radioactive,,,
+emission/water/fresh water,,,emission/water/fresh water body
+,,water/surface water,emission/water/fresh water body
+,,water/fossil well,emission/water/subterranean/fresh water body/confined aquifer
+,,water/ground-,emission/water/subterranean
+,,"water/ground-, long-term",emission/water/subterranean
+emission/water/sea water,Emissions/water/sea water,water/ocean,emission/water/saline water body/ocean
+emission/water/unspecified,Emissions/water/unspecified,water/unspecified,emission/water
+emission/water/unspecified long term,,,emission/water
+land use/hemerobie,,,resource/ground/human-dominated
+land use/occupation,Resources/land use/land occupation,,resource/ground
+land use/transformation,Resources/land use/Land transformation,,
+,,natural resource/land,resource/ground/terrestrial
+other,,,
+resource/air/non renewable/element,,,resource/air
+resource/air/non renewable/energy,,,resource/air
+resource/air/non renewable/material,,,resource/air
+resource/air/non renewable/unspecified,,,resource/air
+resource/air/renewable/element,Resources/air/Renewable element resources,,resource/air
+resource/air/renewable/energy,Resources/air/Renewable energy resources,,resource/air
+resource/air/renewable/material,Resources/air/Renewable material resources,,resource/air
+resource/air/renewable/unspecified,,,resource/air
+,,natural resource/in air,resource/air
+resource/biosphere/renewable/element,,,resource/biotic
+resource/biosphere/renewable/energy,,,resource/biotic
+resource/biosphere/renewable/genetic,,,resource/biotic
+resource/biosphere/renewable/material,,,resource/biotic
+resource/biosphere/renewable/unspecified,,,resource/biotic
+,,natural resource/biotic,resource/biotic
+resource/ground/non renewable/element,Resources/ground/Non-renewable element resources,,resource/ground
+resource/ground/non renewable/energy,Resources/ground/Non-renewable energy resources,,resource/ground
+resource/ground/non renewable/material,Resources/ground/Non-renewable material resources,,resource/ground
+resource/ground/non renewable/unspecified,,,resource/ground
+resource/ground/renewable/element,,,resource/ground
+resource/ground/renewable/energy,Resources/ground/Renewable energy resources,,resource/ground
+resource/ground/renewable/material,Resources/ground/Renewable material resources,,resource/ground
+resource/ground/renewable/unspecified,,,resource/ground
+,,natural resource/in ground,resource/ground
+resource/unspecified/material,,,
+resource/water/non renewable/element,,,resource/water
+resource/water/non renewable/energy,,,resource/water
+resource/water/non renewable/material,,,resource/water
+resource/water/non renewable/unspecified,,,resource/water
+resource/water/renewable/element,,,resource/water
+resource/water/renewable/energy,Resources/water/Renewable energy resources,,resource/water
+resource/water/renewable/material,,,resource/water
+resource/water/renewable/unspecified,,,resource/water
+,Resources/water/consumption,,resource/water
+,Resources/water/use,,resource/water
+,Resources/water/withdrawal,,resource/water
+,,natural resource/in water,resource/water
+,,natural resource/fossil well,resource/water/subterranean
+,,,emission/air/subterranean
+,,,emission/air/troposphere/high
+,,,emission/air/troposphere/low
+,,,emission/air/troposphere/rural/ground-level
+,,,emission/air/troposphere/urban
+,,,emission/air/troposphere/urban/low
+,,,emission/air/troposphere/very high
+,,,emission/ground/human-dominated
+,,,emission/ground/human-dominated/agricultural/rural
+,,,emission/ground/human-dominated/agricultural/urban
+,,,emission/ground/human-dominated/commercial
+,,,emission/ground/human-dominated/commercial/rural
+,,,emission/ground/human-dominated/commercial/urban
+,,,emission/ground/human-dominated/industrial/rural
+,,,emission/ground/human-dominated/industrial/urban
+,,,emission/ground/human-dominated/residential
+,,,emission/ground/human-dominated/residential/rural
+,,,emission/ground/human-dominated/residential/urban
+,,,emission/ground/subterranean
+,,,emission/ground/terrestrial/barren land
+,,,emission/ground/terrestrial/grassland
+,,,emission/ground/terrestrial/shrubland
+,,,emission/ground/terrestrial/snow and ice
+,,,emission/ground/terrestrial/wetland
+,,,emission/water/brackish water body
+,,,emission/water/brackish water body/lake
+,,,emission/water/brackish water body/lake/rural
+,,,emission/water/brackish water body/lake/urban
+,,,emission/water/fresh water body/lake
+,,,emission/water/fresh water body/lake/rural
+,,,emission/water/fresh water body/lake/urban
+,,,emission/water/fresh water body/river
+,,,emission/water/fresh water body/river/rural
+,,,emission/water/fresh water body/river/urban
+,,,emission/water/saline water body
+,,,emission/water/subterranean/brackish water body
+,,,emission/water/subterranean/brackish water body/confined aquifer
+,,,emission/water/subterranean/brackish water body/unconfined aquifer
+,,,emission/water/subterranean/fresh water body
+,,,emission/water/subterranean/fresh water body/unconfined aquifer
+,,,emission/water/subterranean/saline water body
+,,,emission/water/subterranean/saline water body/confined aquifer
+,,,emission/water/subterranean/saline water body/unconfined aquifer
+,,,resource/air/subterranean
+,,,resource/air/troposphere
+,,,resource/ground/human-dominated/agricultural
+,,,resource/ground/human-dominated/agricultural/rural
+,,,resource/ground/human-dominated/agricultural/urban
+,,,resource/ground/human-dominated/commercial
+,,,resource/ground/human-dominated/commercial/rural
+,,,resource/ground/human-dominated/commercial/urban
+,,,resource/ground/human-dominated/industrial
+,,,resource/ground/human-dominated/industrial/rural
+,,,resource/ground/human-dominated/industrial/urban
+,,,resource/ground/human-dominated/residential
+,,,resource/ground/human-dominated/residential/rural
+,,,resource/ground/human-dominated/residential/urban
+,,,resource/ground/human-dominated/rural
+,,,resource/ground/human-dominated/urban
+,,,resource/ground/subterranean
+,,,resource/ground/terrestrial/barren land
+,,,resource/ground/terrestrial/forest
+,,,resource/ground/terrestrial/grassland
+,,,resource/ground/terrestrial/shrubland
+,,,resource/ground/terrestrial/snow and ice
+,,,resource/ground/terrestrial/wetland
+,,,resource/water/brackish water body
+,,,resource/water/brackish water body/lake
+,,,resource/water/brackish water body/lake/rural
+,,,resource/water/brackish water body/lake/urban
+,,,resource/water/fresh water body
+,,,resource/water/fresh water body/lake
+,,,resource/water/fresh water body/lake/rural
+,,,resource/water/fresh water body/lake/urban
+,,,resource/water/fresh water body/river
+,,,resource/water/fresh water body/river/rural
+,,,resource/water/fresh water body/river/urban
+,,,resource/water/saline water body
+,,,resource/water/saline water body/ocean
+,,,resource/water/subterranean/brackish water body
+,,,resource/water/subterranean/brackish water body/confined aquifer
+,,,resource/water/subterranean/brackish water body/unconfined aquifer
+,,,resource/water/subterranean/fresh water body
+,,,resource/water/subterranean/fresh water body/confined aquifer
+,,,resource/water/subterranean/fresh water body/unconfined aquifer
+,,,resource/water/subterranean/saline water body
+,,,resource/water/subterranean/saline water body/confined aquifer
+,,,resource/water/subterranean/saline water body/unconfined aquifer
