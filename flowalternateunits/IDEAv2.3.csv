@@ -1,0 +1,11 @@
+﻿The flowable name,"Unit of measure, different than the preferred unit","Unit of measure, original preferred unit","Factor for unit conversion, in the form of alternate units/reference unit",Description or link to reference for conversion values
+string,string,string,float,string
+Y,Y,Y,Y,Y
+Flowable,Alternate Unit,Reference Unit,Conversion Factor,External Reference
+"metallurgical coal, 29.0MJ/kg",MJ,kg,29.0,-
+"hard coal, 25.7MJ/kg",MJ,kg,25.7,-
+"brown coal, 17.2MJ/kg",MJ,kg,17.2,-
+"natural gas, 54.6MJ/kg",MJ,kg,54.6,-
+"Natural Gas Liquids, 46.5MJ/kg",MJ,kg,46.5,-
+"anthracite, 26.9MJ/kg",MJ,kg,26.9,-
+"crude oil, 44.7MJ/kg",MJ,kg,44.7,-
