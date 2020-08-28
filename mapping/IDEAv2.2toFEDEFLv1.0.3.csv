@@ -1012,8 +1012,11 @@ IDEAv2.2,barren land,60a31ee1-b87b-40e9-8afb-b5ad60994c06,Resources/land use/lan
 IDEAv2.2,forest,fcd5e16b-e4c5-4c60-b045-042d30abd42d,Resources/land use/land occupation,m2year,=,1,Land use,1147e66c-db3e-303c-b7c7-89b006d98881,resource/ground/terrestrial/forest,m2*a,Hottle,Edelen,8/24/2020
 IDEAv2.2,mineral extraction site,CC0F5788-8059-4253-8498-D7B8D3CD3CD6,Resources/land use/land occupation,m2year,=,1,Land use,4b92c75e-e528-3f23-bc67-e92977682eb4,resource/ground/human-dominated/industrial,m2*a,Hottle,Edelen,8/24/2020
 IDEAv2.2,dump yard,dd8c94cc-b5c2-4736-9dfc-668bce100891,Resources/land use/land occupation,m2year,=,1,Land use,4b92c75e-e528-3f23-bc67-e92977682eb4,resource/ground/human-dominated/industrial,m2*a,Hottle,Edelen,8/24/2020
-IDEAv2.2,Iron manganese ore,1404b845-05d0-4d16-94f5-999775446c55,Resources/ground/Non-renewable material resources,kg,,,[potential split flows],,,,,,
-IDEAv2.2,alcohol and glycol ethers (average),9b4eaa9e-0eb2-4056-8ab5-658e4190415d,Emissions/air/unspecified,kg,,,[potential split flows],,,,,,
-IDEAv2.2,isomers of diethylbenzene,68ed8dba-14bc-47b3-97f7-1b710895b2b3,Emissions/air/unspecified,kg,,,[potential split flows],,,,,,
-IDEAv2.2,isomers of heptadecane,79877f11-06fa-48e1-85a5-d72d0a08bfbb,Emissions/air/unspecified,kg,,,[potential split flows],,,,,,
-IDEAv2.2,m-xylene and p-xylene,fdc20be8-a513-477a-997f-cd0c9bec0551,Emissions/air/unspecified,kg,,,[potential split flows],,,,,,
+IDEAv2.2,Iron manganese ore,1404b845-05d0-4d16-94f5-999775446c55,Resources/ground/Non-renewable material resources,kg,>,0,5,Iron ore,6fca43a7-13fb-315d-a184-8af7d40ff1d3,resource/ground,kg,Hottle,,8/28/2020
+IDEAv2.2,Iron manganese ore,1404b845-05d0-4d16-94f5-999775446c55,Resources/ground/Non-renewable material resources,kg,>,0.5,Manganese ore,76daf866-b662-3499-bcb6-6407d3d69208,resource/ground,kg,Hottle,,8/28/2020
+IDEAv2.2,alcohol and glycol ethers (average),9b4eaa9e-0eb2-4056-8ab5-658e4190415d,Emissions/air/unspecified,kg,>,0.5,Alcohols,857d25a8-c081-37a7-8451-3852663d1a9b,emission/air,kg,Hottle,,8/28/2020
+IDEAv2.2,alcohol and glycol ethers (average),9b4eaa9e-0eb2-4056-8ab5-658e4190415d,Emissions/air/unspecified,kg,>,0.5,Glycol ethers,ea0a3ada-c97c-3f2a-a88a-6553b146c818,emission/air,kg,Hottle,,8/28/2020
+IDEAv2.2,isomers of diethylbenzene,68ed8dba-14bc-47b3-97f7-1b710895b2b3,Emissions/air/unspecified,kg,=,1,Diethylbenzene isomers,aa42600c-8616-3599-b551-b696d8fc7559,emission/air,kg,Hottle,,8/28/2020
+IDEAv2.2,isomers of heptadecane,79877f11-06fa-48e1-85a5-d72d0a08bfbb,Emissions/air/unspecified,kg,~,1,Heptadecane,98fbfc54-c98e-3bc2-9474-86c3fe85e594,emission/air,kg,Hottle,,8/28/2020
+IDEAv2.2,m-xylene and p-xylene,fdc20be8-a513-477a-997f-cd0c9bec0551,Emissions/air/unspecified,kg,>,0.5,p-Xylene,3a41e87c-065d-3ab8-bc14-73ff717163c6,emission/air,kg,Hottle,,8/28/2020
+IDEAv2.2,m-xylene and p-xylene,fdc20be8-a513-477a-997f-cd0c9bec0551,Emissions/air/unspecified,kg,>,0.5,m-Xylene,a20f692f-5cab-3036-b3aa-821fb758a39c,emission/air,kg,Hottle,,8/28/2020
