@@ -72,7 +72,7 @@ resource/water/renewable/unspecified,,,resource/water
 ,Resources/water/use,,resource/water
 ,Resources/water/withdrawal,,resource/water
 ,,natural resource/in water,resource/water
-,,natural resource/fossil well,resource/water/subterranean
+,,natural resource/fossil well,water/subterranean/fresh water body/confined aquifer
 ,,,emission/air/subterranean
 ,,,emission/air/troposphere/high
 ,,,emission/air/troposphere/low
