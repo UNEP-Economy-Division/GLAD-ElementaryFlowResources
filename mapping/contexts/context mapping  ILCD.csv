@@ -10,10 +10,10 @@ emission/air/non urban/very high ,Emissions/air/non-urban,air/non-urban air or f
 emission/air/unspecified,Emissions/air/unspecified,air/unspecified,emission/air
 emission/air/unspecified long term,Emissions/air/unspecified,"air/low population density, long-term",emission/air
 emission/air/urban/high ,Emissions/air/urban high stacks,air/unspecified,emission/air/troposphere/urban/high
-emission/air/urban/low ,Emissions/air/urban air close to ground,air/urban air close to ground,emission/air/troposphere/urban/ground-level
+emission/air/urban/low ,Emissions/air/urban air close to ground,air/urban air close to ground,emission/air/troposphere/urban/low
 emission/air/urban/very high ,Emissions/air/urban high stacks,air/unspecified,emission/air/troposphere/urban/very high
 emission/soil/agricultural,Emissions/ground/unspecified,soil/agricultural,emission/ground/human-dominated/agricultural
-emission/soil/non agricultural,Emissions/ground/unspecified,soil/unspecified,emission/ground/terrestrial
+emission/soil/non agricultural,Emissions/ground/unspecified,soil/unspecified,emission/ground
 emission/soil/unspecified,Emissions/ground/unspecified,soil/unspecified,emission/ground
 emission/soil/unspecified long term,Emissions/ground/unspecified,,emission/ground
 emission/stockpile goods,,,
