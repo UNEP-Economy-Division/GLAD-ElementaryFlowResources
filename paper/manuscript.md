@@ -62,27 +62,33 @@ facilitating interoperability of common data exchange formats
 ## Puropse
 -	development of a framework to map lists of elementary flows of LCA databases; 
 -	Prove the applicability of the method: bidirectional mapping between widely used nomenclature lists
-## Interoperability
-- challenges to overcome
-## Scientific background
+
+## History of previous efforts
  -JRC work (submitted to IJLCA)
  -Edelen et al., (Critical review of elementary flows in LCA data, IJLCA 2017)
 ## Materials and methods
 ## Native flowlists structure
- ### EF
- ### EI
- ### FEDEFL
- ### IDEA
+  -Each flowlist provide a short introduction to structure and then point to individual guidance documentation
+  ## Methods
+ 	Present improvements to structure via use of classification systems and addition of CAS numbers
+	Flow list management techniques that have changed (github)
+		Version control
+		Public accessibility
+## Interoperability (?)
+	Highlight the difference between single source development and a collaborative effort (pros and cons)
+	Highlight difference between nomenclature issues and methodological issues and how sometimes they are a blend based on how the native flowlist is structured
+
 ## Results and Discussion
-## Common format and file structure 
-## Features of the mapper tool
-## Transparent documentation (match rating and mapping hierarchy)
-## Iterations and checks structure (reverse mapping)
-## Case study (GLAD nomenclature systems)
-## Coverages
+### Common format and file structure 
+### Features of the mapper tool
+### Transparent documentation (match rating and mapping hierarchy)
+	May appear in mapping file, but will not impact the mapping itself
+### Iterations and checks structure (reverse mapping)
+### Case study (GLAD nomenclature systems)
+### Coverages
 	Breakdown (e.g., use of proxies)
 (other analyses)
-## Known issues (discussion: how to deal with them)
+### Known issues (discussion: how to deal with them)
 ## Conclusions and outlook
 -How to overcome the known issues
 -No perfect mapping->A common backbone as an ambition
