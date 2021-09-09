@@ -14,7 +14,10 @@ draft (in any order)
 ---
 
 
-
+Helpful tools
+* when using a bibliography add to bibliography.bib document and then cite in paper using this format [@edelen_critical_2018]. [@""] the text in the quotes will appear on the first row in the .bib document and can be copied and pasted into the paper.
+* When using tables you can create in excel and then copy and paste into an issue. When you past into the issue text box it will automatically format the table into the appropriate code. You can then copy and paste from the issue text box into the paper. At the end of the table add a table reference {tbl:"tablename"}
+* When referencing a table use the format[{tbl:"tablename"}]
 
 # Option 1) Main result: the bidirectional mapping between EI-EF-FEDEFL-IDEA 
 
