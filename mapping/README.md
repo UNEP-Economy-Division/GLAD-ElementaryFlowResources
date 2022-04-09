@@ -1,3 +1,3 @@
 # GLAD mapping files 
 
-The mapping file folder is organized to include two components of the mappings. The folder inputs contains the original source flow lists in the mapping template and the input files for the JRC mapping tool. Users should be aware that the JRC mapping tool requires additional information and inputs to create the finalized output files.
+The mapping file folder is organized to include two components of the mappings. The folder contains the subfolder inputs that includes the input files for the JRC mapping tool and the finalized output mapping files. Users should note that the JRC mapping output files require additional manual edits in order to reflect the finalized output mapping files stored in this folder.
