@@ -1,0 +1,58 @@
+ILCD/EF,IDEA/EF,ecoinvent/EF,FEDEFL
+emission/air/close to ground,Emissions/air/unspecified,air/unspecified,emission/air/troposphere/ground-level
+emission/air/indoor,Emissions/air/unspecified,air/indoor,emission/air/indoor
+emission/air/lower stratosphere and upper stratosphere,Emissions/air/unspecified,air/lower stratosphere + upper troposphere,emission/air/stratosphere
+emission/air/non urban or from high stack,Emissions/air/non-urban,air/non-urban air or from high stacks,emission/air/troposphere/rural
+emission/air/non urban/ground level,Emissions/air/non-urban,air/non-urban air or from high stacks,emission/air/rural/ground-level
+emission/air/non urban/high,Emissions/air/non-urban,air/non-urban air or from high stacks,emission/air/troposphere/rural/high
+emission/air/non urban/low ,Emissions/air/non-urban,air/non-urban air or from high stacks,emission/air/troposphere/rural/low
+emission/air/non urban/very high ,Emissions/air/non-urban,air/non-urban air or from high stacks,emission/air/troposphere/rural/very high
+emission/air/unspecified,Emissions/air/unspecified,air/unspecified,emission/air
+emission/air/unspecified long term,Emissions/air/unspecified,"air/low population density, long-term",emission/air
+emission/air/urban/high ,Emissions/air/urban high stacks,air/unspecified,emission/air/troposphere/urban/high
+emission/air/urban/low ,Emissions/air/urban air close to ground,air/urban air close to ground,emission/air/troposphere/urban/low
+emission/air/urban/very high ,Emissions/air/urban high stacks,air/unspecified,emission/air/troposphere/urban/very high
+emission/soil/agricultural,Emissions/ground/unspecified,soil/agricultural,emission/ground/human-dominated/agricultural
+emission/soil/non agricultural,Emissions/ground/unspecified,soil/unspecified,emission/ground
+emission/soil/unspecified,Emissions/ground/unspecified,soil/unspecified,emission/ground
+emission/soil/unspecified long term,Emissions/ground/unspecified,,emission/ground
+emission/stockpile goods,,,
+emission/waste/radioactive,,,
+emission/water/fresh water,,water/surface water,emission/water/fresh water body
+emission/water/sea water,Emissions/water/sea water,water/ocean,emission/water/saline water body/ocean
+emission/water/unspecified,Emissions/water/unspecified,water/unspecified,emission/water
+emission/water/unspecified long term,Emissions/water/unspecified,water/unspecified,emission/water
+land use/hemerobie,,natural resource/land,resource/ground/human-dominated
+land use/occupation,Resources/land use/land occupation,natural resource/land,resource/ground
+land use/transformation,Resources/land use/Land transformation,natural resource/land,
+other,,,
+resource/air/non renewable/element,,natural resource/in air,resource/air
+resource/air/non renewable/energy,,natural resource/in air,resource/air
+resource/air/non renewable/material,,natural resource/in air,resource/air
+resource/air/non renewable/unspecified,,natural resource/in air,resource/air
+resource/air/renewable/element,Resources/air/Renewable element resources,natural resource/in air,resource/air
+resource/air/renewable/energy,Resources/air/Renewable energy resources,natural resource/in air,resource/air
+resource/air/renewable/material,Resources/air/Renewable material resources,natural resource/in air,resource/air
+resource/air/renewable/unspecified,,natural resource/in air,resource/air
+resource/biosphere/renewable/element,,natural resource/biotic,resource/biotic
+resource/biosphere/renewable/energy,,natural resource/biotic,resource/biotic
+resource/biosphere/renewable/genetic,,natural resource/biotic,resource/biotic
+resource/biosphere/renewable/material,,natural resource/biotic,resource/biotic
+resource/biosphere/renewable/unspecified,,natural resource/biotic,resource/biotic
+resource/ground/non renewable/element,Resources/ground/Non-renewable element resources,natural resource/in ground,resource/ground
+resource/ground/non renewable/energy,Resources/ground/Non-renewable energy resources,natural resource/in ground,resource/ground
+resource/ground/non renewable/material,Resources/ground/Non-renewable material resources,natural resource/in ground,resource/ground
+resource/ground/non renewable/unspecified,,natural resource/in ground,resource/ground
+resource/ground/renewable/element,,natural resource/in ground,resource/ground
+resource/ground/renewable/energy,Resources/ground/Renewable energy resources,natural resource/in ground,resource/ground
+resource/ground/renewable/material,Resources/ground/Renewable material resources,natural resource/in ground,resource/ground
+resource/ground/renewable/unspecified,,natural resource/in ground,resource/ground
+resource/unspecified/material,,,
+resource/water/non renewable/element,,natural resource/in water,resource/water
+resource/water/non renewable/energy,,natural resource/in water,resource/water
+resource/water/non renewable/material,,natural resource/in water,resource/water
+resource/water/non renewable/unspecified,,natural resource/in water,resource/water
+resource/water/renewable/element,,natural resource/in water,resource/water
+resource/water/renewable/energy,Resources/water/Renewable energy resources,natural resource/in water,resource/water
+resource/water/renewable/material,,natural resource/in water,resource/water
+resource/water/renewable/unspecified,,natural resource/in water,resource/water

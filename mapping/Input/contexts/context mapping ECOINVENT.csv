@@ -1,0 +1,27 @@
+ecoinvent/EF,ILCD/EF,IDEA/EF,FEDEFL
+air/indoor,emission/air/indoor,Emissions/air/unspecified,emission/air/indoor
+air/lower stratosphere + upper troposphere,emission/air/lower stratosphere and upper stratosphere,Emissions/air/non-urban,emission/air/stratosphere
+"air/low population density, long-term",emission/air/unspecified long term,Emissions/air/unspecified,emission/air/rural
+air/non-urban air or from high stacks,emission/air/non urban or from high stack,Emissions/air/non-urban,emission/air/troposphere/rural
+air/unspecified,emission/air/unspecified,Emissions/air/unspecified,emission/air
+air/urban air close to ground,emission/air/urban/low ,Emissions/air/urban air close to ground,emission/air/troposphere/urban/ground-level
+soil/agricultural,emission/soil/agricultural,Emissions/ground/unspecified,emission/ground/human-dominated/agricultural
+soil/forestry,emission/soil/unspecified,Emissions/ground/unspecified,emission/ground/terrestrial/forest
+soil/industrial,emission/soil/non agricultural,Emissions/ground/unspecified,emission/ground/human-dominated/industrial
+soil/unspecified,emission/soil/unspecified,Emissions/ground/unspecified,emission/ground
+water/surface water,emission/water/fresh water,Emissions/water/unspecified,emission/water
+water/fossil well,emission/water/fresh water,Emissions/water/unspecified,emission/water/subterranean/fresh water body/confined aquifer
+water/ground-,emission/water/fresh water,Emissions/water/unspecified,emission/water/subterranean
+"water/ground-, long-term",emission/water/fresh water,Emissions/water/unspecified,emission/water/subterranean
+water/ocean,emission/water/sea water,Emissions/water/sea water,emission/water/saline water body/ocean
+water/unspecified,emission/water/unspecified,Emissions/water/unspecified,emission/water
+natural resource/land,land use/occupation,Resources/land use/land occupation,resource/ground
+natural resource/land,land use/transformation,Resources/land use/Land transformation,
+natural resource/in air,resource/air/renewable/unspecified,Resources/air/Renewable material resources,resource/air
+natural resource/biotic,resource/biosphere/renewable/unspecified,,resource/biotic
+natural resource/in ground,resource/ground/non renewable/unspecified,Resources/ground/Non-renewable material resources,resource/ground
+natural resource/in ground,resource/ground/renewable/unspecified,Resources/ground/Renewable material resources,resource/ground
+natural resource/in water,resource/water/renewable/unspecified,Resources/water/withdrawal,resource/water
+natural resource/in water,resource/water/non renewable/unspecified,Resources/water/withdrawal,resource/water
+natural resource/in water,resource/ground/non renewable/energy,Resources/ground/Non-renewable energy resources,resource/water
+natural resource/fossil well,resource/water/non renewable/unspecified,Resources/water/withdrawal,resource/water/subterranean/fresh water body/confined aquifer
