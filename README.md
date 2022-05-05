@@ -6,4 +6,4 @@ In June 2020, the life cycle initiative launched the Global LCA Data Access (GLA
 
 The GLAD Working Group on Nomenclature (WG1), a technical working group supporting the Life Cycle Initiative for GLAD maintains this repository.
 
-If you want to contribute please contact Jonathas De Mello [jonathas.demello@un.org] and Claudia Giacovelli [claudia.giacovelli@un.org].
+If you want to [contribute](https://github.com/UNEP-Economy-Division/GLAD-ElementaryFlowResources/graphs/contributors) please contact Jonathas De Mello [jonathas.demello@un.org] and Claudia Giacovelli [claudia.giacovelli@un.org].
