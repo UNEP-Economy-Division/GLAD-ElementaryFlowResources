@@ -17,5 +17,4 @@ See the [FlowList template](FlowList.csv).
  FlowUUID | string | Y | Unique hexadecimal ID for the flow |
  AltUnit | string | N | Alternate unit for the flow |
  AltUnitConversionFactor | float | N | Conversion factor in the form of alternate units/reference unit |
-
-
+ SecondCAS | string | N | Secondary CAS numbers if any. If multiple CAS numbers they should be delimited by ";" |
