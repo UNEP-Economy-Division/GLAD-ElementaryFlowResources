@@ -1,4 +1,4 @@
-﻿Flowable,CASNo,Formula,Synonyms,Unit,Class,ExternalReference,Preferred,Context,FlowUUID,AltUnit1,AltUnitConversionFactor1,,
+﻿FlowName,CASNo,Formula,Synonyms,Unit,Class,ExternalReference,Preferred,Context,FlowUUID,AltUnit,AltUnitConversionFactor,SecondCAS,
 silver,007440-22-4,,"Ag;銀（資源）;Ag reserves;silver reserves,Ag;銀（資源）;Ag reserves;silver reserves",kg,Geological,,,Resources/ground/Non-renewable element resources,c0dd54b3-e72b-4188-bc87-c26388f3aced,,,69011-54-7; 7440-22-4,69011-54-7; 7440-22-4
 aluminium,007429-90-5,,"Al;aluminum;アルミニウム（資源）;Al reserves;aluminium reserves,Al;aluminum;アルミニウム（資源）;Al reserves;aluminium reserves",kg,Geological,,,Resources/ground/Non-renewable element resources,46ef7015-7dfe-44b4-b640-2d722b450d6a,,,12011-61-9; 7429-90-5,12011-61-9; 7429-90-5
 gold,007440-57-5,,"Au;金（資源）;Au reserves;gold reserves,Au;金（資源）;Au reserves;gold reserves",kg,Geological,,,Resources/ground/Non-renewable element resources,d4eae8ef-2d4d-42e7-bb95-a929d1ae0c1b,,,7440-57-5,7440-57-5
