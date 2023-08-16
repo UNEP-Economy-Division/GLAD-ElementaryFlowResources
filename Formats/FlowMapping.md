@@ -12,6 +12,7 @@ SourceFlowContext | string | Y | Compartments separated by `/`, like `emission/a
 SourceUnit | string | Y | A unit abbreviation, like `kg`|
 MatchCondition | string | N |Single character. `=`, `>`,`<`,`~`. Meaning 'equal to','a superset of', 'a subset of', 'a proxy for'. Assumes `=` if not present |
 ConversionFactor | float | N | Value for multiplying with source flow to equal target flow. Assumes `1` if not   present |
+MapType | string | N | MapType token output from Auto mapper tool |
 TargetListName | string | Y | Name and version of the target flowlist, e.g. openLCA1.7 or TRACI2.1
 TargetFlowName | string | Y | Name of the flowable |
 TargetFlowUUID | string| Y| UUID for target flow |
@@ -20,8 +21,13 @@ TargetUnit | string | Y | A unit abbreviation, like `kg`|
 Mapper | string | N | Person creating the mapping |
 Verifier | string | N | Person verifying the mapping |
 LastUpdated | datetime | N | Date mapping last updated |
-MemoMapper | string | N	| Memo by Mapper
-MemoVerifier |	string | N | Memo by Verifier
-MemoSource | string	| N |	Memo by Source EF system admin
-MemoTarget | string	| N	| Memo by Target EF system admin
-
+Flow Condition (S) | string | N	| FlowName mapping condition Source |
+Flow Condition (T) | string | N	| FlowName mapping condition Target |
+Flow Conf (S) | string | N	| FlowName mapping confidence rating Source |
+Flow Conf (T) | string | N	| FlowName mapping confidence rating Target |
+Context Condition (S) | string | N	| Context mapping condition Source |
+Context Condition (T) | string | N	| Context mapping condition Target |
+Context Conf (S) | string | N	| Context mapping confidence rating Source |
+Context Conf (T) | string | N	| Context mapping confidence rating Target |
+Conversion Conf (S) | datetime | N | ConversionFactor confidence rating Source |
+Conversion Conf (T) | datetime | N | ConversionFactor confidence rating Target |
