@@ -1,4 +1,4 @@
-﻿Flowable,CASNo,Formula,Synonyms,Unit,Class,ExternalReference,Preferred,Context,FlowUUID,AltUnit,,Second CAS
+﻿FlowName,CASNo,Formula,Synonyms,Unit,Class,ExternalReference,Preferred,Context,FlowUUID,AltUnit,AltUnitConversionFactor,SecondCAS
 "1,3-Dioxolan-2-one",000096-49-1,,,kg,chemical,,,water/unspecified,5b7d620e-2238-5ec9-888a-6999218b6974,,,96-49-1
 "1,4-Butanediol",000110-63-4,,Butylene glycol,kg,chemical,,,"air/low population density, long-term",d21da01e-f96f-4db5-9746-7b70db8a1f2c,,,36684-44-3; 28324-25-6; 110-63-4; 110-63-4
 "1,4-Butanediol",000110-63-4,,Butylene glycol,kg,chemical,,,air/lower stratosphere + upper troposphere,90653a29-2f53-4b1b-88bd-9ae2fe64a8d6,,,36684-44-3; 28324-25-6; 110-63-4; 110-63-4
